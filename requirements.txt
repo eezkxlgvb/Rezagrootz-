@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+Pillow
+aiohttp
+asyncio
+opencv-python-headless
+numpy
+requests
+schedule
