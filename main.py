@@ -27,7 +27,7 @@ import aiohttp
 from functools import wraps
 
 # ========== تنظیمات ==========
-BOT_TOKEN = "8698104560:AAFh7uTmqpDsH0WPPKBE-z1wvW6443zuOcI"
+BOT_TOKEN = "8698104560:AAEeQP0ukSVwiMmcX_aA3KgPrpHJ5W0N6ds"
 ADMIN_IDS = [8916314219]
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode='HTML')
 
